@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">NDCShop</string>
+    <string name="name">Name</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="forget_password">Forget Password</string>
+    <string name="register">Register</string>
+    <string name="language">Language</string>
+    <string name="fullname">Full Name</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="back_to_login">Back to Login</string>
+</resources>

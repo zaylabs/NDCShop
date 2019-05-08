@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "216877925871",
+    "firebase_url": "https://ndcdb-c2263.firebaseio.com",
+    "project_id": "ndcdb-c2263",
+    "storage_bucket": "ndcdb-c2263.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216877925871:android:5a759c9b516bd20c",
+        "android_client_info": {
+          "package_name": "com.zaylabs.ndcshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "216877925871-lngubu356fifrcoq0pnu2baea03r6638.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zaylabs.ndcshop",
+            "certificate_hash": "d8f7f6a28f12fd60439d329ca26fd4be057d07c5"
+          }
+        },
+        {
+          "client_id": "216877925871-l7fsgbrlhg91e6lin055dao58v3ia6sg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO7unRRvxIyFuQhW8Bd5qoQQZHOKkpZrw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "216877925871-l7fsgbrlhg91e6lin055dao58v3ia6sg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
